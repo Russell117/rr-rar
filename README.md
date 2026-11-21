@@ -26,8 +26,8 @@ chmod +x rr-rar.AppImage && ./rr-rar.AppImage
 ### SHA256 checksums
 
 ```
-972c70790efcf31157d7945f32173919ba5bf2515f9cad0c9d5cb7d710300763  rr-rar.AppImage
-83afe2d7dc6179bac94fa20d7fe7cd87b21ed9bd48a2ec2fc1ee35d077cb99c6  rr-rar.deb
+146df5933c7451ef78086166a619c62020b37de59aa7e1942ea460166d4ea063  rr-rar.deb
+bf168cad4c90b2a093d9ba3ff617ace881ada66593167dc72c00db91499f6c88  rr-rar.AppImage
 ```
 
 The same lines are in [`SHA256SUMS`](SHA256SUMS). After you download a file, check it with `sha256sum -c SHA256SUMS`.
